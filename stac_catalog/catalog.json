@@ -1,0 +1,401 @@
+{
+  "type": "Catalog",
+  "id": "fabdem-brazil-south",
+  "stac_version": "1.0.0",
+  "description": "Forest and Building removed DEM for the South of Brazil",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S033W053_FABDEM_V1-2/S033W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S033W054_FABDEM_V1-2/S033W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S032W055_FABDEM_V1-2/S032W055_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S032W057_FABDEM_V1-2/S032W057_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S032W054_FABDEM_V1-2/S032W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S032W056_FABDEM_V1-2/S032W056_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S034W053_FABDEM_V1-2/S034W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S033W052_FABDEM_V1-2/S033W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S032W051_FABDEM_V1-2/S032W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S032W052_FABDEM_V1-2/S032W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S032W053_FABDEM_V1-2/S032W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S031W052_FABDEM_V1-2/S031W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S031W051_FABDEM_V1-2/S031W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S031W053_FABDEM_V1-2/S031W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W052_FABDEM_V1-2/S030W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W050_FABDEM_V1-2/S030W050_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W056_FABDEM_V1-2/S030W056_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W053_FABDEM_V1-2/S030W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W058_FABDEM_V1-2/S030W058_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W055_FABDEM_V1-2/S030W055_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W054_FABDEM_V1-2/S030W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W053_FABDEM_V1-2/S029W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W055_FABDEM_V1-2/S029W055_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W057_FABDEM_V1-2/S029W057_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W051_FABDEM_V1-2/S030W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W052_FABDEM_V1-2/S029W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W051_FABDEM_V1-2/S029W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W049_FABDEM_V1-2/S029W049_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W050_FABDEM_V1-2/S029W050_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S028W052_FABDEM_V1-2/S028W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S028W050_FABDEM_V1-2/S028W050_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S028W051_FABDEM_V1-2/S028W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S028W049_FABDEM_V1-2/S028W049_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S027W053_FABDEM_V1-2/S027W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S027W052_FABDEM_V1-2/S027W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S027W051_FABDEM_V1-2/S027W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S027W049_FABDEM_V1-2/S027W049_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S027W050_FABDEM_V1-2/S027W050_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S026W053_FABDEM_V1-2/S026W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S026W049_FABDEM_V1-2/S026W049_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S026W051_FABDEM_V1-2/S026W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S026W052_FABDEM_V1-2/S026W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S026W050_FABDEM_V1-2/S026W050_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S026W055_FABDEM_V1-2/S026W055_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S026W054_FABDEM_V1-2/S026W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S025W055_FABDEM_V1-2/S025W055_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S025W054_FABDEM_V1-2/S025W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S025W049_FABDEM_V1-2/S025W049_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S025W050_FABDEM_V1-2/S025W050_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S025W051_FABDEM_V1-2/S025W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S025W052_FABDEM_V1-2/S025W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S024W050_FABDEM_V1-2/S024W050_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S024W051_FABDEM_V1-2/S024W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S024W053_FABDEM_V1-2/S024W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S024W052_FABDEM_V1-2/S024W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S023W052_FABDEM_V1-2/S023W052_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S034W054_FABDEM_V1-2/S034W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S031W058_FABDEM_V1-2/S031W058_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S031W057_FABDEM_V1-2/S031W057_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S031W054_FABDEM_V1-2/S031W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S031W055_FABDEM_V1-2/S031W055_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S031W056_FABDEM_V1-2/S031W056_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S030W057_FABDEM_V1-2/S030W057_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W054_FABDEM_V1-2/S029W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S029W056_FABDEM_V1-2/S029W056_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S028W055_FABDEM_V1-2/S028W055_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S028W056_FABDEM_V1-2/S028W056_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S028W053_FABDEM_V1-2/S028W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S028W054_FABDEM_V1-2/S028W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S027W054_FABDEM_V1-2/S027W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S025W053_FABDEM_V1-2/S025W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S024W055_FABDEM_V1-2/S024W055_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S024W054_FABDEM_V1-2/S024W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S023W054_FABDEM_V1-2/S023W054_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S023W053_FABDEM_V1-2/S023W053_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S023W050_FABDEM_V1-2/S023W050_FABDEM_V1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S023W051_FABDEM_V1-2/S023W051_FABDEM_V1-2.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ]
+}

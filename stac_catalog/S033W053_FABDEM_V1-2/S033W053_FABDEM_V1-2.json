@@ -1,0 +1,111 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "S033W053_FABDEM_V1-2",
+  "properties": {
+    "tile_name": "S033W053",
+    "file_name": "S033W053_FABDEM_V1-2.tif",
+    "datetime": "2023-10-24T19:59:27.685168Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -53.0,
+          -33.0
+        ],
+        [
+          -53.0,
+          -32.0
+        ],
+        [
+          -52.0,
+          -32.0
+        ],
+        [
+          -52.0,
+          -33.0
+        ],
+        [
+          -53.0,
+          -33.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "DEM": {
+      "href": "https://github.com/cordmaur/fabdem-brazil-south/releases/download/v0.1/S033W053_FABDEM_V1-2.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "fabdem",
+      "proj:epsg": 4326,
+      "proj:shape": [
+        3600,
+        3600
+      ],
+      "proj:bbox": [
+        -53.0,
+        -33.0,
+        -52.0,
+        -32.0
+      ],
+      "proj:geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.0,
+              -33.0
+            ],
+            [
+              -53.0,
+              -32.0
+            ],
+            [
+              -52.0,
+              -32.0
+            ],
+            [
+              -52.0,
+              -33.0
+            ],
+            [
+              -53.0,
+              -33.0
+            ]
+          ]
+        ]
+      },
+      "proj:transform": [
+        0.0002777777777777778,
+        0.0,
+        -53.00013888888889,
+        0.0,
+        -0.00027777777777777875,
+        -31.999861111111112
+      ]
+    }
+  },
+  "bbox": [
+    -53.0,
+    -33.0,
+    -52.0,
+    -32.0
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ]
+}
