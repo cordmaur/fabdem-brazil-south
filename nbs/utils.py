@@ -56,4 +56,4 @@ def search_catalog(catalog, geometry: Optional[shapely.Geometry] = None):
 
     gdf_items = gdf[gdf.intersects(geometry)]
 
-    return [catalog.get_item(idx) for idx in gdf_items.index]
+    return [catalog.get_item(idx) for idx in gdf_items.index]  # type: ignore
